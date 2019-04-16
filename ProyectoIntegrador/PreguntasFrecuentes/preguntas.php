@@ -12,6 +12,7 @@
     <?php
     	require('../Menu/menu.php');
     ?>
+    <br>
     <main class='preguntas'>
       <article>
         <b>Hola! ¿Hacen envíos?</b>

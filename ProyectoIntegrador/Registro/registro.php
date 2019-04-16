@@ -13,16 +13,6 @@
   <?php
   require('../Menu/menu.php');
   ?>
-<!--<header>
-  <div class="logoymenu">
-<img src="img/logo.png" alt="" class="logo"><h1>CHOCOLATEMIA</h1><img src="img/menu2.png" alt="" class="menu"></div>
-  <ul>
-  <li><a href="ecommerce">Inicio</a></li>
-  <li><a href="#">FAQ</a></li>
-  <li><a href="login.html">Iniciar Sesion</a></li>
-  <li><a href="register.html">Registro</a></li>
-</ul>
-</header>-->
 <main>
 <form class="register" action="login.html" method="post">
   <br>

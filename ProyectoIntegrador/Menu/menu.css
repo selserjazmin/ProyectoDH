@@ -52,7 +52,7 @@ ul{
   display: flex;
 }
 .navegacion{
-  border: 1px solid black;  
+  border: 1px solid black;
 }
 li{
   display: inline-block;
